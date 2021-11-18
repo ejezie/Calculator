@@ -54,3 +54,6 @@ body{
     font-size: 3em;
     color: rgb(231, 225, 225);
 }
+.hover{
+  background-color: red;
+}
